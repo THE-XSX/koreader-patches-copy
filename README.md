@@ -1,3 +1,5 @@
+# 原始代码：由 Reddit 用户 [hundredpercentcocoa](https://www.reddit.com/user/hundredpercentcocoa/) 创建
+
 # KOReader 阅读摘要与锁屏增强用户补丁 (Book Receipt & Lockscreen Patch)
 
 [中文说明与手把手教程](#-中文说明与手把手教程) | [English Guide](#-english-guide--step-by-step-tutorial)
@@ -43,7 +45,7 @@
 ### 📖 手把手安装与设置教程
 
 #### 📥 第一步：安装补丁文件
-1. 下载补丁文件 `2-book-receipt-shortcut-and-lockscreen.lua`。
+1. 下载补丁文件 [`2-book-receipt-shortcut-and-lockscreen.lua`](file:///c:/Users/14893/Downloads/patches/2-book-receipt-shortcut-and-lockscreen.lua)。
 2. 打开阅读器设备的存储目录，找到 KOReader 的 **用户补丁文件夹**（若不存在 `patches` 文件夹请自行新建）：
    - **路径**：`koreader/patches/2-book-receipt-shortcut-and-lockscreen.lua`
 3. 将下载的文件复制并粘贴进 `koreader/patches/` 目录。
